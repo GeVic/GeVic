@@ -14,5 +14,7 @@ I'm a fervent **Developer**, whimsical **Illustrator**, and an avid **Technophil
 - Join hands with me on [LinkedIn](https://www.linkedin.com/in/gevic/)
 - Peek into my [design world](https://instagram.com/redundantillustrations)
 - Schedule a chat with me on [Calendly](https://cal.com/veeki)
+- Know me more [here](https://www.veeki.in/)
+
 
 Your descent into my GitHub domain is warmly welcomed. Stick around, scout, and feel free to strike a conversation for collaborations or tech talks 🚀

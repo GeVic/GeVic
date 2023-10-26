@@ -11,7 +11,7 @@ I'm a fervent **Developer**, whimsical **Illustrator**, and an avid **Technophil
 #### 🌐 Let's Connect!
 
 - Drop me a line at [veeki@duck.com](mailto:veeki@duck.com)
-- Join hands with me on [LinkedIn](https://www.linkedin.com)
+- Join hands with me on [LinkedIn](https://www.linkedin.com/in/gevic/)
 - Peek into my [design world](https://instagram.com/redundantillustrations)
 - Schedule a chat with me on [Calendly](https://cal.com/veeki)
 

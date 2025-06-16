@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Veeki
 
-I'm a fervent **Developer**, whimsical **Illustrator**, and an avid **Technophile**. My tech voyage of over 4 years has been a roller-coaster of crafting resilient digital solutions, honing my design prowess, and incessantly marching towards the tech horizon. Presently, I'm wielding the code wand at [ANQ Finance](https://anq.finance) as a **Senior Software Development Engineer**, orchestrating digital symphonies that resonate with innovation and efficiency.
+I'm a fervent **Developer**, whimsical **Illustrator**, and an avid **Technophile**. My tech voyage of over 4 years has been a roller-coaster of crafting resilient digital solutions, honing my design prowess, and incessantly marching towards the tech horizon. Presently, I'm wielding the code wand at [Docket](https://www.docket.io) as a **Senior Software Development Engineer**, orchestrating digital symphonies that resonate with innovation and efficiency.
 
-#### 🚀 Current Odyssey at ANQ Finance
-- **Position**: Senior Software Development Engineer
-- **Duration**: May 2022 - Present
+#### 🚀 Current Odyssey at Docket
+- **Position**: Senior Software Engineer
+- **Duration**: May 2024 - Present
 - **Location**: Bangalore, India
-- **Tech Stack**: ReactJs, React Native, Deno, AWS
+- **Tech Stack**: NextJs, Python, Vue, Azure, AWS
 
 #### 🌐 Let's Connect!
 
